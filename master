@@ -1,0 +1,39 @@
+HTML CSSResult Skip Results Iframe
+// <uniquifier>: title
+// <weight>: 700
+
+.orbitron-<title > {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <900>;
+  font-style: bold;
+}
+
+/*CONTAINER*/
+#titlea {
+  width: 380px;
+  background: transparent;
+  position: relative;
+}
+
+/*TITLE*/
+#titleb {
+  padding: 5px 15px;
+  font: 800 20px Orbitron;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--cor3);
+  margin-top: 10px;
+}
+
+.suba {
+  padding: 5px 15px;
+  font: bold 7px arial narrow;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--cor2);
+  text-align: justify;
+  margin-top: 10px;
+  border-left: 2px solid var(--cor3);
+}
